@@ -1,0 +1,17 @@
+The application will be multi device application featuring on android mobile, ios platform and web based. Pune is the hub of IT industry and one of very important issue faced by people, corporates and students who immigrate here or relocate for job is there is no single point of contact for public transport related information.
+The system will solely be presenting the various phases of pune and sub urban city. As a result there is lack of proper transport system for the city to turn into smart city.
+The system can include various features such as transport from one place to other in the city, houses available for rent and sell in particular area, carpooling from one point to other at a particular time
+•	Transport- Timetables of pmpl, metrozip , info about Ola, uber, cabs, taxis, jugnoo
+•	Events :- Things to do in city, various public parks and places to go around
+•	Tickets:- book tickets for rail, bus, metrozip bus and other event tickets
+•	Projects: -it will include various projects and initiatives undertaken by ngos and municipal organizations.
+•	Government help-box: 
+o	 An ATM type application capable on working with speech which will provide information on government related services provided to people, income tax, driving license, insurance.
+o	A person can apply for any license like driving licence, aadhar card, birth certificate and various other government docs.
+o	Policy tender – basically providing single system to the consumer for reaching govt.
+
+•	Travel:
+o	People can book the nearest available resort or hotel and travel to nearby hill station.
+
+•	E-wallet:  a one stops solution to travel for public transport including rail, cab and bus 
+•	Clean city: Waste management system and awareness on environment.
